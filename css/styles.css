@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    border: 3px solid midnightblue;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li.ingredients {
+    list-style-type: circle;
+}
+
+a {
+    text-decoration: none;
+    color:midnightblue;
+}
+
+a:visited {
+    color: midnightblue;
+}
+
+a:hover {
+    color:royalblue;
+}
